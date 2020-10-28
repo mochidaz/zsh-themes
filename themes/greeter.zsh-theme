@@ -33,7 +33,7 @@ local greet_prompt() {
 	elif (( 18 <= 10#$H && 10#$H < 22 )); then
 	    echo -n "Good Evening, $USER"
 
-	elif (( 22 <= 10#$H && 10#$H < 4 )); then
+	elif (( 23 <= 10#$H && 10#$H > 4 )); then
 	    echo -n "Sleep Well, $USER" 
 fi
 }
