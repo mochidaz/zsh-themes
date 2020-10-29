@@ -1,5 +1,5 @@
 # Based on simple zsh theme
-# Net by rahmanhakim@protonmail.com/mochidaz@github.com
+# Net by rahmanhakim2435@protonmail.com/mochidaz@github.com
 # Shows your current network, but only for wireless network for now (?) idk haven't tested it with ethernet.
 # If you want to create any improvements, just submit a pull request
 
