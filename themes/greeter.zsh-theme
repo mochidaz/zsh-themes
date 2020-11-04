@@ -34,6 +34,9 @@ local greet_prompt() {
 	    echo -n "Good Evening, $USER"
 
 	elif (( 23 <= 10#$H && 10#$H > 4 )); then
+	    echo -n "Sleep Well, $USER"
+	
+	else
 	    echo -n "Sleep Well, $USER" 
 fi
 }
